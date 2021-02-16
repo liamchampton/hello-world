@@ -1,4 +1,4 @@
 # hello-world
 Test repo
 
-I am a software engineer learning GitHub for the first time!
+I am a testing cloud functions and GitHub webhooks with this repository
